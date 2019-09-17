@@ -1,0 +1,38 @@
+.picture {
+    border: 7px solid orange;
+    margin-left: 10px;
+    height: 100px;
+    width: 300px;   
+}
+
+div{
+    margin-left: 10px;
+    border: 7px dashed orange;   
+    background-color: yellow;
+    padding-top: 50;
+}
+main{
+    width: 450px;
+    background-color: beige;
+    border: 5px  solid brown;
+    
+}
+
+#text {
+    margin-top: 10px;
+    height: 250px;
+    width: 300px; 
+    overflow: scroll;
+}
+body{
+    background-color: white;  
+}
+h1 {
+    margin-left: 10px;
+}
+.important {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+
